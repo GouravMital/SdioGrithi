@@ -1,0 +1,12 @@
+.manifesto-container {
+  height: 200vh;
+  position: relative;
+}
+
+.manifesto-video {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: auto;
+  z-index: 1;
+}
